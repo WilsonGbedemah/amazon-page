@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.bread-crumbs{
+    color:#565959;
+    font-size: 10px;
+}
+
+.page{
+    margin: 0 auto;
+    border: 0.2px solid black;
+    width: 850px;
+    height: 550px;
+    display: flex;
+    border-bottom:10px solid lightskyblue ;
+    box-shadow: 10px 10px 5px lightgrey;
+}
+.section-one{
+    padding: 20px 20px;
+}
+.section-two{
+    padding: 0 10px;
+}
+
+.title {
+    font-weight: lighter;
+    font-size: 30px;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 310px;
+    border-radius: 5px;
+
+}
+.ratings{
+    width:100px;
+}
+
+.authur{
+    font-size: 12px;
+}
+.authur a {
+    color: #007185;
+    margin: 5px 0;
+}
+h4{
+    font-size: 15px;
+    margin: 5px 0;
+}
+.text{
+    font-size: 15px;
+    margin:0;
+}
